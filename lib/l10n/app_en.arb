@@ -1,0 +1,26 @@
+{
+  "hellobullseye": "Hello BullsEye",
+  "@hellobullseye": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+  "hitme": "Hit me!",
+  "@hitme": {
+    "description": "This is Hit me! CTA"
+  },
+
+  "current": "Current",
+  "@current": {
+    "description": "This is Hit me! CTA"
+  },
+
+  "upcoming": "Upcoming",
+  "@upcoming": {
+    "description": "This is Hit me! CTA"
+  },
+
+  "account": "My Account",
+  "@account": {
+    "description": "This is Hit me! CTA"
+  }
+}
